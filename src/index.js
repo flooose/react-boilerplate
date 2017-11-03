@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore } from 'redux'
-import './index.css';
+// import './index.css';
 
-class ShoppingList extends React.Component {
+export default class ShoppingList extends React.Component {
   render() {
     return (
       <div className="shopping-list">
@@ -18,8 +18,7 @@ class ShoppingList extends React.Component {
   }
 }
 
-
-ReactDOM.render(
-  <ShoppingList />,
-  document.getElementById('root')
-);
+/* ReactDOM.render(
+ *   <ShoppingList />,
+ *   document.getElementById('root')
+ * );*/
