@@ -1,5 +1,7 @@
 # memorypop-browser-addon
 
+[![Build Status](https://travis-ci.org/flooose/memorypop-browser-addon.svg?branch=master)](https://travis-ci.org/flooose/memorypop-browser-addon)
+
 ## Getting started
 
 - clone
