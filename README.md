@@ -1,11 +1,11 @@
-# memorypop-browser-addon
+# react-boilerplate
 
-[![Build Status](https://travis-ci.org/flooose/memorypop-browser-addon.svg?branch=master)](https://travis-ci.org/flooose/memorypop-browser-addon)
+[![Build Status](https://travis-ci.org/flooose/react-boilerplate.svg?branch=master)](https://travis-ci.org/flooose/react-boilerplate)
 
 ## Getting started
 
 - clone
-- cd memorypop-browser-addon
+- cd react-boilerplate
 - yarn install
 
 ## Testing
