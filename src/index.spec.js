@@ -7,7 +7,7 @@ describe("Player", function() {
   beforeEach(function() {
   });
 
-  it("should be able to play a Song", function() {
+  it("The default component should work", function() {
     var element = React.createElement(
       ShoppingList, // component class
       {} // props go here
